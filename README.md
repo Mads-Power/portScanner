@@ -1,2 +1,2 @@
 # portScanner
-small port scanner
+small port scanner written in Python
